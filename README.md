@@ -1,1 +1,2 @@
-# Bayesian Theory Project
+# Bayesian analysis on acidity of wine
+
